@@ -1,6 +1,6 @@
 # Mstore-Invoice
 
-Beberapa Fitur
+Fitur
 ### Login
 ![1  Login](https://github.com/gfadsrwt2nd/Mstore-Invoice/assets/55633963/44c22701-7987-4dcb-a340-f0800d99431c)<br>
 ![2  Dashboard](https://github.com/gfadsrwt2nd/Mstore-Invoice/assets/55633963/02f1637a-2e97-4419-a586-628b5ac9e5d6)<br>
