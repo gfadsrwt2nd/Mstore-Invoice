@@ -19,5 +19,5 @@
 # Installasi
 1. Ekstrak Mstore-Invoice.zip <br>
 2. Buat Database Baru <br>
-3. Upload mstoreinvoice.sql<br>
+3. Upload mstoreinvoice.sql pada folder DB<br>
 4. Sesuaikan Username & Password untuk login<br>
