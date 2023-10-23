@@ -17,7 +17,7 @@
 ![5  Cetak Invoice](https://github.com/gfadsrwt2nd/Mstore-Invoice/assets/55633963/1e59d784-8658-4bf7-8cbf-14c098f0c7cf)<br>
 
 # Installasi
-Ekstrak Mstore-Invoice.zip 
-Buat Database Baru 
-Upload mstoreinvoice.sql
-Sesuaikan Username & Password untuk login
+1. Ekstrak Mstore-Invoice.zip <br>
+2. Buat Database Baru <br>
+3. Upload mstoreinvoice.sql<br>
+4. Sesuaikan Username & Password untuk login<br>
